@@ -1,4 +1,7 @@
 ## Hi there 👋
+Im currently studying computer science and am interested in everything to do with computers and IT.
+I also like gaming and literature!
+Pronouns: any
 
 <!--
 **jumbshd/jumbshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
